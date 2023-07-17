@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: loboto2
+Description: Description of loboto2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+set(trajectory_msgs_MESSAGE_FILES "/home/pi/catkin_ws/src/common_msgs-noetic-devel/trajectory_msgs/msg/JointTrajectory.msg;/home/pi/catkin_ws/src/common_msgs-noetic-devel/trajectory_msgs/msg/JointTrajectoryPoint.msg;/home/pi/catkin_ws/src/common_msgs-noetic-devel/trajectory_msgs/msg/MultiDOFJointTrajectory.msg;/home/pi/catkin_ws/src/common_msgs-noetic-devel/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg")
+set(trajectory_msgs_SERVICE_FILES "")

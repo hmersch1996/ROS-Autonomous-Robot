@@ -1,0 +1,2 @@
+common_msgs-noetic-devel/geometry_msgs:common_msgs-noetic-devel/sensor_msgs:loboto:loboto2:loboto_pruebas:prueba
+-DCATKIN_DEVEL_PREFIX=/home/pi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/catkin_ws/install -G Unix Makefiles

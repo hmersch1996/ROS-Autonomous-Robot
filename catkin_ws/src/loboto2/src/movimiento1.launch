@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="loboto2" type="sensores.py" name="sensores" />
+
+    <node pkg="loboto2" type="suscriptor_motores.py" name="movimiento" />
+
+</launch>

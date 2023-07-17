@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="loboto_pruebas" type="sensoresfull.py" name="lectura_sensores_full" />
+
+</launch>

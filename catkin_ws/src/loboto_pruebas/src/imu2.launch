@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="loboto_pruebas" type="pub_imu.py" name="lectura_imu" />
+
+</launch>
